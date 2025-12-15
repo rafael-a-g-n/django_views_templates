@@ -139,10 +139,6 @@ cython_debug/
 staticfiles/
 media/
 
-# Database
-*.sqlite3
-*.db
-
 # If you are using PostgreSQL
 *.pgsql
 
